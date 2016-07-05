@@ -1,0 +1,5 @@
+main/.idea/
+main/target/
+main/project/
+timeout-test.ipr
+timeout-test.iws
